@@ -1,11 +1,11 @@
 Redux Tutorial Todo App
 =======================
 
-Just the basic tutorial from the official Redux docs:
+Just the "basics" tutorial from the official Redux docs:
 
   http://gaearon.github.io/redux/docs/basics/
 
-Built on top of Dave Zukowski's React Redux Start Kit so it's easy to get running.
+Built on top of Dave Zukowski's React Redux Starter Kit so it's easy to get running.
 
 Just do `npm install` and `npm run dev`
 
