@@ -1,9 +1,9 @@
-Redux Tutorial Todo App
-=======================
+Redux Tutorial Advanced App
+===========================
 
 Just the "basics" tutorial from the official Redux docs:
 
-  http://gaearon.github.io/redux/docs/basics/
+  http://gaearon.github.io/redux/docs/advanced/
 
 Built on top of Dave Zukowski's React Redux Starter Kit so it's easy to get running.
 
