@@ -45,7 +45,7 @@ class AsyncApp extends Component {
       <div>
         <Picker value={selectedReddit}
                 onChange={this.handleChange}
-                options={['reactjs', 'frontend']} />
+                options={['reactjs', 'frontend', 'vancouver']} />
         <p>
           {lastUpdated &&
             <span>
